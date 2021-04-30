@@ -4,7 +4,7 @@ A collection of examples for arduino and esp to use for reference
 
 ## Basic components
 
-- [Button](https://github.com/Ivanf1/arduino-esp-examples/tree/master/button)
+- [Button](https://github.com/Ivanf1/arduino-esp-examples/tree/master/push-button)
 - [Potentiometer](https://github.com/Ivanf1/arduino-esp-examples/tree/master/potentiometer)
 
 ## IC
